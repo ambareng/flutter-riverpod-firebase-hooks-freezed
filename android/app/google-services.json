@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189075204536",
+    "project_id": "riverpod-hooks-freezed-fireb",
+    "storage_bucket": "riverpod-hooks-freezed-fireb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189075204536:android:1429f1e59c4aeaf082474d",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_firebase_hooks_freezed_architecture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189075204536-nbvajuu9p1pqstpe074tkf266ipr0j51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1BTFAU59b1XzsZeB_sPR8PNJHakcGo6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189075204536-nbvajuu9p1pqstpe074tkf266ipr0j51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
